@@ -14,7 +14,7 @@ const books=[
         id:3,
         img:"https://m.media-amazon.com/images/I/91CY3OD6DiL.jpg",
         title:"The Lincoln Highway",
-        author:"AMOR TOWLES"
+        author:"sabbir.misti"
     },{
         id:4,
         img:"https://m.media-amazon.com/images/I/71ogguMNzHS.jpg",

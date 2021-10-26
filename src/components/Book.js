@@ -24,7 +24,7 @@ render(){
 
   const checkInfo = (info) =>{
       if(info === true){
-          return ( <p>In development, expressing dependencies this way allows your styles to be reloaded on the fly as you edit them. </p> )
+          return ( <p>In development, expressing............ </p> )
       }else{
           return null;
       }
