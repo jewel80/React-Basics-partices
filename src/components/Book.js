@@ -24,7 +24,7 @@ render(){
 
   const checkInfo = (info) =>{
       if(info === true){
-          return ( <p>In development, expressing............ </p> )
+          return ( <p>In development, expressing.......... </p> )
       }else{
           return null;
       }
